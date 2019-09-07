@@ -88,12 +88,12 @@ The list below is based on the curriculum v1.0. Once you have mastered a section
   - [ ] - Understand PVCs for Storage
 - [ ] __Observability - 18%__
   - [] Liveness and Readiness Probes
-  - [] Understand Container Logging
-  - [] Understand Monitoring Application in Kubernetes
-  - [] Understand Debugging in Kubernetes
-- [] __Services and Networking - 13%__
-  - [] Understand Services
-  - [] Basic Network Policies
+  - [ ] Understand Container Logging
+  - [ ] Understand Monitoring Application in Kubernetes
+  - [ ] Understand Debugging in Kubernetes
+- [ ] __Services and Networking - 13%__
+  - [ ] Understand Services
+  - [ ] Basic Network Policies
 
 # Where to Practice
 This particular items was difficult for me as I didn't have a (current) k8s cluster to use at work. As I was initially studying for the CKA which requires more cluster-level work, I tried many, many different approaches for an inexpensive k8s environment. built many clusters using K8s The Hard way on gcloud (and AWS), built a raspberry pi cluster I could carry to work, and tried using kubeadm / kops on gcloud and aws.
